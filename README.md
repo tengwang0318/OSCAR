@@ -2,7 +2,7 @@
 
 **[EMNLP 2026 Main Conference]**
 
-Offical Code of Paper [https://arxiv.org/abs/2602.08603](***OSCAR: Optimization-Steered Agentic Planning for Composed Image Retrieval***)
+Offical Code of Paper [OSCAR: Optimization-Steered Agentic Planning for Composed Image Retrieval]([https://arxiv.org/abs/2602.08603)
 
 Framework overview: Planner -> Retriever -> Ranker (LangGraph).
 
